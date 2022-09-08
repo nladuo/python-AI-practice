@@ -1,2 +1,4 @@
-# python_ai_practice
-ai practice in python
+# python-IR-practice
+IR practice in python.
+
+
